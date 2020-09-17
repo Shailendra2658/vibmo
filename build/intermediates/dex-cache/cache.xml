@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\StanleyFeb\vibo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\StanleyFeb\vibo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9463183e5c0f92195a8c60a3c181bdd049a092f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\StanleyFeb\vibo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6dbb57c57beaded4f2b0a9de15b01c4699c2ba8">
+        <dex dex="D:\StanleyFeb\vibo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5894ec7dece2faa83f033350370f6ddfe8d44322\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shailendra\.android\build-cache\972480ac0caabf1fea74798d1a4dceae225523fd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="D:\StanleyFeb\vibo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3d680e9eb13828ab47fc635a1bb888a206d77f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shailendra\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="D:\StanleyFeb\vibo\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.3_237e042055fb234a4d053714784afc38445c113e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shailendra\.android\build-cache\de1ae81b18e3857b0acf81c9e41a2435418b1771\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14889e022db94047ceadff1cf5e7984139a4eb8e">
+        <dex dex="D:\StanleyFeb\vibo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e3bd6d9ec54d386459f987d6cb4cfc4be6fbbcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shailendra\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.0.1\7ffdb02f95af1c1a208544e076cea5b8e66e731a\commons-io-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
+        <dex dex="D:\StanleyFeb\vibo\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.0.1_c33cd38709046a11b7a0d1d43d3254eba11888e9\classes.dex" />
+    </item>
+
+</items>
